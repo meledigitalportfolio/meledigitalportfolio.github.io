@@ -1,0 +1,74 @@
+body {
+  background-color:lightsteelblue;
+    border-color: black;
+}
+h1 {
+  font-weight: bold;
+    text-align:center;
+    color: azure;
+}
+
+p {
+  text-align:right;
+  font-family: cursive; 
+  font-size: 14px; 
+  
+}
+
+h4 {
+    color: black;
+    text-align: center;
+    
+}
+    
+    
+    
+
+h2 {
+  color:black;
+text-align: center;
+    
+}
+
+p {
+    text-align: right;
+    font-family: cursive;
+    font-size: 20px;
+    
+    
+    
+}
+
+h3 {
+    color: a; 
+    
+    
+}
+
+p{
+    text-align: right; 
+    font-family: n; 
+    font-size: 17px; 
+    
+}
+
+img{   
+
+    width: 250px;
+    margin: 10px;
+    border-color: black;
+    border-width: 5px;
+    border-style: dashed;
+    border-radius: 10px; 
+    
+}
+
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+    width:20%;
+    
+    }
+    
+    
